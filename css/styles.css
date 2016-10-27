@@ -1,0 +1,28 @@
+body {
+  background-color: #444;
+}
+.container {
+  background-color: #EEE;
+  text-align: center;
+}
+
+#output {
+  font-size: 4em;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.jumbotron {
+  background-color: #000;
+  color: white;
+  text-align: center;
+}
+
+form {
+  padding: 50px;
+}
+
+.btn {
+  height: 75px;
+
+}
